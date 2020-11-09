@@ -1,5 +1,5 @@
 # 255-Outbreak
-A twin stick shooter created in Unity for the Ludum Dare 2019 Game Jam. 
+A twin stick shooter created in Unity for the Ludum Dare 2019 Game Jam. Battle against AI with a variety of weapons and see if you can face the boss at the end of the stage!
 
 # Prerequisites
 Unity 2019.2.1f1 - https://unity3d.com/get-unity/download/archive
